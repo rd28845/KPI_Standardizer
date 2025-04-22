@@ -1,0 +1,16 @@
+team,kpi_name,definition
+Sales,Monthly Revenue,Total monetary value of sales made in a calendar month
+Sales,Customer Acquisition Cost,Total sales and marketing spend divided by number of new customers acquired in the same period
+Sales,Sales Conversion Rate,Percentage of leads that convert to paying customers
+Marketing,Cost Per Acquisition,Total marketing spend divided by number of customers acquired in the period
+Marketing,Customer Lifetime Value,Projected revenue a customer will generate during their entire relationship with the company
+Marketing,Click-through Rate,Percentage of users who click on a specific link out of the total users who view a page or email
+Product,User Retention Rate,Percentage of users who continue using the product after a specified period
+Product,Monthly Active Users,Count of unique users who engaged with the product at least once in a month
+Product,Feature Adoption Rate,Percentage of users who use a specific feature out of the total user base
+Finance,Gross Margin,Revenue minus cost of goods sold divided by revenue expressed as a percentage
+Finance,Monthly Burn Rate,Total amount of money spent each month to run the business
+Finance,Customer Acquisition Cost Payback Period,Number of months it takes to earn back the cost of acquiring a customer
+Customer Success,Net Promoter Score,Measure of customer satisfaction based on likelihood to recommend product
+Customer Success,Churn Rate,Percentage of customers who stop using the product in a given time period
+Customer Success,First Response Time,Average time taken to first respond to a customer support ticket
